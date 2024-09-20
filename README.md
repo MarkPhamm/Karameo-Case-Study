@@ -1,2 +1,2 @@
-# test-kamereo
-Solving Kamereo DA test
+Karameo Case Study
+Solving Kamereo Case Study
